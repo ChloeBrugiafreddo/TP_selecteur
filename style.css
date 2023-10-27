@@ -1,0 +1,13 @@
+h1{
+	color:red;
+}
+
+a{
+	color:green;
+	overflow: none;
+}
+
+.service{
+	text-align:right;
+	float:right;
+}
